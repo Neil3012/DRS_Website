@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <style>
+
+
+
+  .grid-container {
+  margin-left: 50px;
+  display: grid;
+  grid-template-columns: 200px 400px;
+  gap: 10px; 
+  padding: 10px;
+}
+.grid-container > div {
+  padding: 20px 0;
+}
+
+.item1 {
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.item2{
+  grid-column-start: 2;
+  grid-column-end: 4;
+}</style>
+    <title>Accenture Metaverse Shopping</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+  <div class="container">
+  <div class="wrap">
+  <nav>
+	  <img src="img/header/AMS_Logo.svg" class="AMSLogo" width="50px" height="50px"/><span>
+	  <img src="img/header/03 Accenture Metaverese Shopping Text.svg" class="AMSLogo"/></span>	  
+	  <a href="#John Doe">John Doe <a><img src="img/header/human_icon.svg" width="20px" height="20px"/> </a></a>
+	  <a href="#Account">Account</a> 
+	  <a href="#Shop">Shop</a> 
+	  <a href="#home">Home</a>  
+  </nav>
+  </div>
+ <div class="wrapper">
+ <img  src="img/proceedtobuy/01 SHOPPING CART Text.png" class="center"/> 
+    <div class="grid-container">
+	  <div class="item1"><img src="img/item_review/shampoo.svg" class="shampoo" width="200px" height="200px"/></div>
+	  <div class="item2"><p><strong>SYMBIOSE </strong>Shampoo<br>Memory Game win:10% discount. </p></div>
+	  <div class="item3"><span>UNIT &nbsp;&nbsp;<span>
+				<div class="quantity">
+					<button class="plus-btn" type="button" name="button">+</button>
+					<input type="text" name="name" value="1" />
+					<button class="minus-btn" type="button" name="button">-</button>                
+				</div> 
+	  </div>  
+	  <div class="item4"><p class="total"> Rs. 2,790.00(original 3,100.00)</p>
+	  <div>MRP INCLUSIVE OF GST</div>
+	  </div>
+  
+	<div class="item5">
+		<button><a href="check.html"><img src="img/checkout/09 Box Proceed.svg"/ border="0"></a></button>
+    </div>
+	<div  class="item6">
+		   <img src="img/proceedtobuy/bg_image.svg" alt="background" class="bg"/> 		
+    </div>
+	</div>
+	</div>
+</div>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript">
+    </script>
+    <script src="index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width,
+        initial-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <style>
+      body {
+        background-color: purple;
+        color: white;
+      }
+      .top {
+        text-align: centre;
+        margin: 0 400px;
+      }
+      td {
+        width: 1000px;
+      }
+      .container {
+        display: inline-block;
+        margin: 0 30 0 200;
+      }
+      select {
+        width: 70%;
+        height: 30px;
+        border-radius: 3px;
+      }
+      .upi {
+        width: 60%;
+        height: 30px;
+        border-radius: 10px;
+      }
+      .verify {
+        background-color: #1774ea;
+        border-radius: 10px;
+      }
+      .name {
+        display: inline-block;
+      }
+      .proceed {
+        background-color: magenta;
+        color: white;
+        border-radius: 10px;
+      }
+      .Address{
+        display: inline;
+      }
+      .edit{
+        color: white;
+        background-color: purple;
+        border-color: purple;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="top">
+      <div>
+        <p class="name">Name:&emsp;&emsp;</p>
+        <div class="Address">
+        John More Doe
+      </div>
+      </div>
+      <div>
+        <p class="name">Address:&emsp;&emsp;</p>
+        <div class="Address">
+          267 A Shah & Nahar Indl Estate Lower Parel , Mumbai,Mumbai,400013,India
+        </div>
+        <!-- <input type="paragraph" value="Your Address" /> -->
+      </div><br><br>
+      <a  href="#" onclick="edit();" class="edit">Edit Dilivery Address</a>
+    </div>
+    <table>
+      <tr>
+        <td>
+          <p></p>
+        </td>
+        <td>
+          <div class="container">
+            <h4><font size="+3">Payment Method </font></h4>
+            <label>
+              <input type="radio" name="question0" value="Card" onclick="cc()" /><span>
+                <font size="+2">Credit Card</font>
+              </span>
+              <br />
+              <br />
+            </label>
+            <div class="icon-container">
+              <i class="fa fa-cc-visa fa-2x" style="color: navy; background-color: white;"></i>
+              <i class="fa fa-cc-amex fa-2x" style="color: blue; background-color: white;"></i>
+              <i class="fa fa-cc-mastercard fa-2x" style="color: red; background-color: white;"></i>
+              <i class="fa fa-cc-discover fa-2x" style="color: orange; background-color: white;"></i>
+            </div>
+            <br />
+
+            <label>
+              <input type="radio" name="question0" value="NetBanking" /><span>
+                <font size="+2">NetBanking </font></span
+              > </label
+            ><br />
+            <br />
+            <select name="Bank" id="bank">
+              <option value="sbi">State Bank of India</option>
+              <option value="bob">Bank of Baroda</option>
+              <option value="boi">Bank of India</option>
+              <option value="bom">Bank of Maharashtra</option>
+            </select>
+            <br />
+            <br />
+            <br />
+
+            <label>
+              <input type="radio" name="question" value="OtherUPI" /><span>
+                <font size="+2">Other UPI </font></span
+              >
+            </label>
+            <br />
+            <br />
+            <form>
+              <input
+                class="upi"
+                type="text"
+                id="upi"
+                name="upi"
+                value="123231321"
+              />
+              <input type="submit" value="Verify" class="btn" />
+            </form>
+            <br />
+            <label>
+              <input type="radio" name="question0" value="COD" /><span>
+                <font size="+2">Cash on Delivery </font></span
+              > </label
+            ><br />
+          </div>
+          <br />
+          <form action="proceed.html"></form>
+          <button class="proceed"><a href="proceed.html">Proceed</a></button>
+        </td>
+        <td>
+          <img src="bg.png" alt="" />
+        </td>
+      </tr>
+    </table>
+    <script type="text/javascript">
+      function edit(){
+        [].forEach.call(document.querySelectorAll('.Address'), function (el) {
+          el.style.visibility = 'hidden';
+        });
+        const container = document.getElementsByClassName('name');
+        let input = document.createElement('input');
+        input.placeholder = 'Enter your Name';
+        container[0].appendChild(input);
+        let input1 = document.createElement('input');
+        input1.placeholder = 'Enter your Address'; 
+        container[1].appendChild(input1); 
+      }
+        
+    </script>
+  </body>
+</html>

@@ -1,0 +1,171 @@
+/*Body  start*/
+.wrapper{
+ background-color:#441159 ;
+  padding:2% 5%;
+}
+.wrap{
+ background-color:#000000;
+}
+
+.center {
+ display:block;
+ margin:auto;
+ width:20%;
+ height: auto;
+}
+ .checkout_text{
+  width:15%;
+  height:auto;
+  display:block;
+ margin:auto;
+  }
+
+.address{
+  display:block;
+  margin:auto;
+  margin-top:5%;
+  margin-bottom:3%;
+  width:30%;
+  }
+.checkout_payment
+{
+	margin-top:3%;
+	width:10%;
+}
+
+
+/*Body  end*/
+/*start Menu bars*/
+nav AMSLogo{
+	margin-left:50%;
+	height:10%;
+}
+span{
+	color:#F2A35E;
+	padding: 20px;
+	
+}
+a{color: #ffffff;
+    text-decoration: none;
+	padding: 20px;
+	float:right;	
+}
+/*End Menu bars*/
+body{
+  font-family: sans-serif;
+  background-color: #000000;
+  color:#ffffff;
+}
+#wrapper_class{
+display:block;
+margin:auto;
+}
+
+p{
+  display: inline;
+}
+ #gh{
+display:block;
+}
+/*
+ .quantity {
+  padding-top: 20px;
+  margin-right: 60px;
+  background-color:#C2C2C2;
+  
+}
+*/
+
+button[class*="btn"] {
+  width: 30px;
+  height: 30px;
+  background-color: #C2C2C2;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+.minus-btn img {
+  margin-bottom: 3px;
+}
+.plus-btn img {
+  margin-top: 3px;
+}
+
+/*button:focus,
+input:focus {
+  outline: 0;
+}*/
+.proceed {
+  width: 20px;
+  height: 20px;
+}
+.proceed_btn {
+  display:inline;
+}
+.checkout {
+  color: white;
+  background-color: #9034F6;
+  border-radius: 15px;
+  width: 110px;
+  text-align:center;
+  }
+h2{
+  color: #F2A35E;
+  text-align: center;
+}
+.padding {
+  padding: 10px;
+  margin-right: 100px;
+  width: 500px;
+}
+.bg1{
+	
+	
+     display: block;
+     margin-left: auto;
+
+}
+
+.bg {
+  align-self: center;
+  width: 40%;
+  margin-left: 50px;
+}
+button-10 {
+  display: inline-block;
+  flex-direction: column;
+  align-items: center;
+  padding: 6px 14px;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  border-radius: 6px;
+  border: none;
+  background-color: violet;
+  margin-left: 400px;
+  margin-top: 20px;
+  color: #fff;
+  float: top;
+}
+
+button-10:focus {
+  box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2),
+    0px 0.5px 1.5px rgba(54, 122, 246, 0.25),
+    0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+  outline: 0;
+}
+
+
+/*button used for price*/
+.quantity{
+border-radius: 12px;
+ background-color:#C2C2C2;
+ padding:2px;
+ width:110px;
+ height:30px;
+ }
+ .quantity input{
+  text-align: center;
+  width: 32px;
+  font-size: 16px;
+  color: #43484d;
+  font-weight: 300;
+}
