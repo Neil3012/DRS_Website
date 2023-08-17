@@ -19,9 +19,9 @@
 	border: none;
 }
 #CC_Input__Choose_Your_Bank_Scroll {
-	position: absolute;
+	/*--position: absolute;
 	width: 1920px;
-	height: 1080px;
+	height: 1080px;*/
 	overflow: hidden;
 	cursor: pointer;
 	--web-view-name: CC Input – Choose Your Bank Scroll;
