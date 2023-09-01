@@ -1,13 +1,11 @@
 .mediaViewInfo {
-	--web-view-name: Web 1 – 1;
-	--web-view-id: Web_1__1;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
+	--web-view-name: Artboard – 2;
+	--web-view-id: Artboard__2;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Web_1__1;
+	--web-view-ids: Artboard__2;
 }
 * {
 	margin: 0;
@@ -15,22 +13,20 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Web_1__1 {
+#Artboard__2 {
 	position: absolute;
-	width: 1920px;
+	width: 1350px;
 	height: 1080px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Web 1 – 1;
-	--web-view-id: Web_1__1;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: fit;
+	--web-view-name: Artboard – 2;
+	--web-view-id: Artboard__2;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 #HEADER {
 	position: absolute;
-	width: 1920px;
+	width: 1350px;
 	height: 53.004px;
 	left: 0.5px;
 	top: 20.496px;
@@ -41,7 +37,7 @@
 	position: absolute;
 	width: 179.586px;
 	height: 42.434px;
-	left: 139.5px;
+	left: 35.5px;
 	top: 0px;
 	overflow: visible;
 }
@@ -81,10 +77,10 @@
 	top: 18.042px;
 	overflow: visible;
 }
-#Path_2618_cd {
-	fill: url(#Path_2618_cd);
+#Path_2618_ce {
+	fill: url(#Path_2618_ce);
 }
-.Path_2618_cd {
+.Path_2618_ce {
 	overflow: visible;
 	position: absolute;
 	width: 18.059px;
@@ -93,10 +89,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2619_cf {
-	fill: url(#Path_2619_cf);
+#Path_2619_cg {
+	fill: url(#Path_2619_cg);
 }
-.Path_2619_cf {
+.Path_2619_cg {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -106,10 +102,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2620_ch {
-	fill: url(#Path_2620_ch);
+#Path_2620_ci {
+	fill: url(#Path_2620_ci);
 }
-.Path_2620_ch {
+.Path_2620_ci {
 	overflow: visible;
 	position: absolute;
 	width: 13.059px;
@@ -118,11 +114,11 @@
 	top: 5.342px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2621_cj {
+#Path_2621_ck {
 	opacity: 0.7;
-	fill: url(#Path_2621_cj);
+	fill: url(#Path_2621_ck);
 }
-.Path_2621_cj {
+.Path_2621_ck {
 	mix-blend-mode: overlay;
 	overflow: visible;
 	position: absolute;
@@ -132,10 +128,10 @@
 	top: 5.34px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2622_cl {
-	fill: url(#Path_2622_cl);
+#Path_2622_cm {
+	fill: url(#Path_2622_cm);
 }
-.Path_2622_cl {
+.Path_2622_cm {
 	overflow: visible;
 	position: absolute;
 	width: 16.818px;
@@ -144,10 +140,10 @@
 	top: 0.001px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2623_cn {
-	fill: url(#Path_2623_cn);
+#Path_2623_co {
+	fill: url(#Path_2623_co);
 }
-.Path_2623_cn {
+.Path_2623_co {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -157,10 +153,10 @@
 	top: 0.001px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2624_cp {
-	fill: url(#Path_2624_cp);
+#Path_2624_cq {
+	fill: url(#Path_2624_cq);
 }
-.Path_2624_cp {
+.Path_2624_cq {
 	mix-blend-mode: multiply;
 	overflow: visible;
 	position: absolute;
@@ -170,10 +166,10 @@
 	top: 15.004px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2625_cr {
-	fill: url(#Path_2625_cr);
+#Path_2625_cs {
+	fill: url(#Path_2625_cs);
 }
-.Path_2625_cr {
+.Path_2625_cs {
 	overflow: visible;
 	position: absolute;
 	width: 8.238px;
@@ -194,10 +190,10 @@
 	top: 5.734px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Path_2627_cu {
-	fill: url(#Path_2627_cu);
+#Path_2627_cv {
+	fill: url(#Path_2627_cv);
 }
-.Path_2627_cu {
+.Path_2627_cv {
 	overflow: visible;
 	position: absolute;
 	width: 30.117px;
@@ -220,10 +216,10 @@
 }
 #Menu_Text {
 	position: absolute;
-	width: 892.907px;
-	height: 10.29px;
-	left: 632.5px;
-	top: 30.34px;
+	width: 744.085px;
+	height: 8.575px;
+	left: 322.502px;
+	top: 28.2px;
 	overflow: visible;
 }
 #Path_2733 {
@@ -232,10 +228,10 @@
 .Path_2733 {
 	overflow: visible;
 	position: absolute;
-	width: 52.305px;
-	height: 10.262px;
-	left: 0px;
-	top: 0.028px;
+	width: 43.588px;
+	height: 8.552px;
+	left: -0.002px;
+	top: 0.023px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2734 {
@@ -244,10 +240,10 @@
 .Path_2734 {
 	overflow: visible;
 	position: absolute;
-	width: 27.523px;
-	height: 10.01px;
-	left: 104px;
-	top: 0.154px;
+	width: 22.936px;
+	height: 8.341px;
+	left: 86.666px;
+	top: 0.129px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2735 {
@@ -256,9 +252,9 @@
 .Path_2735 {
 	overflow: visible;
 	position: absolute;
-	width: 136.514px;
-	height: 10.29px;
-	left: 183px;
+	width: 113.762px;
+	height: 8.575px;
+	left: 152.498px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -268,9 +264,9 @@
 .Path_2736 {
 	overflow: visible;
 	position: absolute;
-	width: 111.314px;
-	height: 10.29px;
-	left: 371.002px;
+	width: 92.762px;
+	height: 8.575px;
+	left: 309.164px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -280,9 +276,9 @@
 .Path_2737 {
 	overflow: visible;
 	position: absolute;
-	width: 148.764px;
-	height: 10.29px;
-	left: 534px;
+	width: 123.969px;
+	height: 8.575px;
+	left: 444.996px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -292,10 +288,10 @@
 .Path_2738 {
 	overflow: visible;
 	position: absolute;
-	width: 32.031px;
-	height: 10.262px;
-	left: 734.002px;
-	top: 0.028px;
+	width: 26.693px;
+	height: 8.552px;
+	left: 611.662px;
+	top: 0.023px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2739 {
@@ -304,17 +300,17 @@
 .Path_2739 {
 	overflow: visible;
 	position: absolute;
-	width: 75.908px;
-	height: 10.262px;
-	left: 817px;
-	top: 0.028px;
+	width: 63.256px;
+	height: 8.552px;
+	left: 680.828px;
+	top: 0.023px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Icons {
 	position: absolute;
-	width: 161.996px;
-	height: 23.548px;
-	left: 1617px;
+	width: 134.996px;
+	height: 19.623px;
+	left: 1142.912px;
 	top: 17.504px;
 	overflow: visible;
 }
@@ -330,8 +326,8 @@
 .Icon_material-account-circle {
 	overflow: visible;
 	position: absolute;
-	width: 22.938px;
-	height: 22.937px;
+	width: 19.281px;
+	height: 19.281px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
@@ -348,18 +344,18 @@
 .Icon_material-shopping-cart {
 	overflow: visible;
 	position: absolute;
-	width: 22.559px;
-	height: 22.558px;
-	left: 69px;
+	width: 18.965px;
+	height: 18.965px;
+	left: 57.5px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Basket_Units {
 	position: absolute;
-	width: 18px;
-	height: 18px;
-	left: 83.5px;
-	top: 5px;
+	width: 15px;
+	height: 15px;
+	left: 69.588px;
+	top: 4px;
 	overflow: visible;
 }
 #Ellipse_279 {
@@ -368,8 +364,8 @@
 .Ellipse_279 {
 	position: absolute;
 	overflow: visible;
-	width: 18px;
-	height: 18px;
+	width: 15px;
+	height: 15px;
 	left: 0px;
 	top: 0px;
 }
@@ -385,10 +381,10 @@
 .Path_2674 {
 	overflow: visible;
 	position: absolute;
-	width: 3.883px;
-	height: 10.293px;
-	left: 6.5px;
-	top: 4.5px;
+	width: 3.318px;
+	height: 8.661px;
+	left: 5.412px;
+	top: 3.917px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Icon_ionic-ios-heart {
@@ -403,10 +399,10 @@
 .Icon_ionic-ios-heart {
 	overflow: visible;
 	position: absolute;
-	width: 23.994px;
-	height: 23.227px;
-	left: 139px;
-	top: 1.437px;
+	width: 20.162px;
+	height: 19.542px;
+	left: 115.834px;
+	top: 1.198px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Line_29 {
@@ -421,98 +417,17 @@
 .Line_29 {
 	overflow: visible;
 	position: absolute;
-	width: 1920px;
+	width: 1350px;
 	height: 2px;
 	left: 0px;
 	top: 53.004px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#SEARCH {
-	position: absolute;
-	width: 193px;
-	height: 22.5px;
-	left: 1586.5px;
-	top: 96.622px;
-	overflow: visible;
-}
-#Line_30 {
-	fill: transparent;
-	stroke: rgba(175,175,175,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_30 {
-	overflow: visible;
-	position: absolute;
-	width: 165.5px;
-	height: 1px;
-	left: 0px;
-	top: 22.5px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Path_2740 {
-	fill: rgba(198,198,198,1);
-}
-.Path_2740 {
-	overflow: visible;
-	position: absolute;
-	width: 91.393px;
-	height: 9.384px;
-	left: 36.84px;
-	top: 7.35px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Search_Icon {
-	position: absolute;
-	width: 20.5px;
-	height: 22.5px;
-	left: 172.5px;
-	top: 0px;
-	overflow: visible;
-}
-#Ellipse_278 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Ellipse_278 {
-	position: absolute;
-	overflow: visible;
-	width: 17px;
-	height: 17px;
-	left: 0px;
-	top: 0px;
-}
-#Line_31 {
-	fill: transparent;
-	stroke: rgba(0,0,0,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_31 {
-	overflow: visible;
-	position: absolute;
-	width: 8.168px;
-	height: 8.666px;
-	left: 13.746px;
-	top: 15.247px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #MY_CART {
 	position: absolute;
 	width: 136.26px;
 	height: 32.436px;
-	left: 892px;
+	left: 607px;
 	top: 119.122px;
 	overflow: visible;
 }
@@ -528,12 +443,20 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
+#Group_169 {
+	position: absolute;
+	width: 1283.088px;
+	height: 526.993px;
+	left: 24px;
+	top: 197.18px;
+	overflow: visible;
+}
 #LEFT_UNIT {
 	position: absolute;
-	width: 780.5px;
-	height: 307.372px;
-	left: 123px;
-	top: 190.5px;
+	width: 610.452px;
+	height: 240.405px;
+	left: 0px;
+	top: 0px;
 	overflow: visible;
 }
 #Line_34 {
@@ -548,45 +471,45 @@
 .Line_34 {
 	overflow: visible;
 	position: absolute;
-	width: 763px;
+	width: 596.766px;
 	height: 2px;
-	left: 17.5px;
+	left: 13.688px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Prod_HAIRSLEEK {
 	position: absolute;
-	width: 154px;
-	height: 170px;
+	width: 119.61px;
+	height: 132.658px;
 	left: 0px;
-	top: 57.5px;
+	top: 45.125px;
 	overflow: visible;
 }
-#Rectangle_198_do {
-	fill: url(#Rectangle_198_do);
+#Rectangle_198_dk {
+	fill: url(#Rectangle_198_dk);
 }
-.Rectangle_198_do {
+.Rectangle_198_dk {
 	position: absolute;
 	overflow: visible;
-	width: 120px;
-	height: 170px;
-	left: 17px;
+	width: 94.6px;
+	height: 132.658px;
+	left: 13.049px;
 	top: 0px;
 }
 #Male_Shampoo {
 	position: absolute;
-	width: 154px;
-	height: 154px;
+	width: 119.609px;
+	height: 119.61px;
 	left: 0px;
-	top: 8px;
+	top: 6.524px;
 	overflow: visible;
 }
 #HAIRSLEEK_Name {
 	position: absolute;
-	width: 177.648px;
-	height: 34.32px;
-	left: 177px;
-	top: 57.364px;
+	width: 138.944px;
+	height: 26.843px;
+	left: 138.438px;
+	top: 44.866px;
 	overflow: visible;
 }
 #Path_2714 {
@@ -595,8 +518,8 @@
 .Path_2714 {
 	overflow: visible;
 	position: absolute;
-	width: 74.551px;
-	height: 10.276px;
+	width: 58.309px;
+	height: 8.038px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
@@ -607,18 +530,18 @@
 .Path_2715 {
 	overflow: visible;
 	position: absolute;
-	width: 177.648px;
-	height: 11.496px;
+	width: 138.943px;
+	height: 8.991px;
 	left: 0px;
-	top: 22.824px;
+	top: 17.851px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Price {
 	position: absolute;
-	width: 47.11px;
-	height: 39.2px;
-	left: 439.15px;
-	top: 58.32px;
+	width: 36.846px;
+	height: 30.659px;
+	left: 343.473px;
+	top: 45.614px;
 	overflow: visible;
 }
 #Path_2691 {
@@ -627,9 +550,9 @@
 .Path_2691 {
 	overflow: visible;
 	position: absolute;
-	width: 26.076px;
-	height: 9.3px;
-	left: 0.902px;
+	width: 20.395px;
+	height: 7.274px;
+	left: 0.705px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -639,10 +562,10 @@
 .Path_2683 {
 	overflow: visible;
 	position: absolute;
-	width: 7.17px;
-	height: 10.09px;
+	width: 5.609px;
+	height: 7.892px;
 	left: 0px;
-	top: 28.478px;
+	top: 22.273px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2700 {
@@ -651,18 +574,18 @@
 .Path_2700 {
 	overflow: visible;
 	position: absolute;
-	width: 35.77px;
-	height: 11.872px;
-	left: 11.34px;
-	top: 27.328px;
+	width: 27.977px;
+	height: 9.285px;
+	left: 8.869px;
+	top: 21.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Quantity {
 	position: absolute;
-	width: 87px;
-	height: 46.976px;
-	left: 566px;
-	top: 58.524px;
+	width: 68.504px;
+	height: 36.323px;
+	left: 442.557px;
+	top: 45.773px;
 	overflow: visible;
 }
 #Path_2748 {
@@ -671,9 +594,9 @@
 .Path_2748 {
 	overflow: visible;
 	position: absolute;
-	width: 48.947px;
-	height: 11.124px;
-	left: 0.553px;
+	width: 38.283px;
+	height: 8.701px;
+	left: 0.561px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -689,10 +612,10 @@
 .Rectangle_199 {
 	position: absolute;
 	overflow: visible;
-	width: 87px;
-	height: 28px;
+	width: 68.504px;
+	height: 21.747px;
 	left: 0px;
-	top: 18.976px;
+	top: 14.575px;
 }
 #Path_2749 {
 	fill: rgba(60,60,60,1);
@@ -700,18 +623,18 @@
 .Path_2749 {
 	overflow: visible;
 	position: absolute;
-	width: 3.42px;
-	height: 8.58px;
-	left: 7.385px;
-	top: 29.396px;
+	width: 2.674px;
+	height: 6.711px;
+	left: 5.904px;
+	top: 22.991px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Arrow {
 	position: absolute;
-	width: 8.485px;
-	height: 4.243px;
-	left: 71px;
-	top: 32.976px;
+	width: 6.636px;
+	height: 3.319px;
+	left: 55.66px;
+	top: 25.792px;
 	overflow: visible;
 }
 #Line_32 {
@@ -726,9 +649,9 @@
 .Line_32 {
 	overflow: visible;
 	position: absolute;
-	width: 1px;
-	height: 6px;
-	transform: translate(-887.137px, -304.378px) matrix(1,0,0,1,893.4996,303.5003) rotate(45deg);
+	width: 0px;
+	height: 4.693px;
+	transform: translate(-0.001px, 0px) matrix(1,0,0,1,4.9769,-0.6867) rotate(45deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
@@ -745,19 +668,19 @@
 .Line_33 {
 	overflow: visible;
 	position: absolute;
-	width: 1px;
-	height: 6px;
-	transform: translate(-887.137px, -304.378px) matrix(1,0,0,1,889.2577,303.4997) rotate(135deg);
+	width: 0px;
+	height: 4.693px;
+	transform: translate(-0.001px, 0px) matrix(1,0,0,1,1.6592,-0.6872) rotate(135deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
 #Total {
 	position: absolute;
-	width: 47.01px;
-	height: 39.2px;
-	left: 732.652px;
-	top: 58.32px;
+	width: 36.768px;
+	height: 30.659px;
+	left: 573.029px;
+	top: 45.614px;
 	overflow: visible;
 }
 #Path_2692 {
@@ -766,9 +689,9 @@
 .Path_2692 {
 	overflow: visible;
 	position: absolute;
-	width: 26.604px;
-	height: 9.3px;
-	left: 20.063px;
+	width: 20.807px;
+	height: 7.274px;
+	left: 15.691px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -778,10 +701,10 @@
 .Path_2693 {
 	overflow: visible;
 	position: absolute;
-	width: 7.172px;
-	height: 10.09px;
+	width: 5.609px;
+	height: 7.892px;
 	left: 0px;
-	top: 27.381px;
+	top: 21.416px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2701 {
@@ -790,18 +713,18 @@
 .Path_2701 {
 	overflow: visible;
 	position: absolute;
-	width: 35.77px;
-	height: 11.872px;
-	left: 11.24px;
-	top: 27.328px;
+	width: 27.977px;
+	height: 9.285px;
+	left: 8.791px;
+	top: 21.374px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Edit_Menu {
 	position: absolute;
-	width: 313.412px;
-	height: 9.36px;
-	left: 182.984px;
-	top: 244.246px;
+	width: 245.129px;
+	height: 7.321px;
+	left: 143.117px;
+	top: 191.032px;
 	overflow: visible;
 }
 #Path_2695 {
@@ -810,10 +733,10 @@
 .Path_2695 {
 	overflow: visible;
 	position: absolute;
-	width: 20.855px;
-	height: 9.3px;
+	width: 16.313px;
+	height: 7.274px;
 	left: 0px;
-	top: 0.06px;
+	top: 0.047px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2696 {
@@ -822,10 +745,10 @@
 .Path_2696 {
 	overflow: visible;
 	position: absolute;
-	width: 44.699px;
-	height: 8.7px;
-	left: 47px;
-	top: 0.66px;
+	width: 34.961px;
+	height: 6.805px;
+	left: 36.76px;
+	top: 0.516px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2697 {
@@ -834,10 +757,10 @@
 .Path_2697 {
 	overflow: visible;
 	position: absolute;
-	width: 91.871px;
-	height: 9.3px;
-	left: 118px;
-	top: 0.06px;
+	width: 71.855px;
+	height: 7.274px;
+	left: 92.291px;
+	top: 0.047px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2698 {
@@ -846,9 +769,9 @@
 .Path_2698 {
 	overflow: visible;
 	position: absolute;
-	width: 77.941px;
-	height: 9.36px;
-	left: 235.471px;
+	width: 60.961px;
+	height: 7.321px;
+	left: 184.168px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -864,18 +787,18 @@
 .Line_35 {
 	overflow: visible;
 	position: absolute;
-	width: 763px;
+	width: 596.766px;
 	height: 2px;
-	left: 17.5px;
-	top: 281px;
+	left: 13.688px;
+	top: 219.778px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #T_Total {
 	position: absolute;
-	width: 597.812px;
-	height: 11.872px;
-	left: 182.197px;
-	top: 295.5px;
+	width: 467.566px;
+	height: 9.285px;
+	left: 142.502px;
+	top: 231.12px;
 	overflow: visible;
 }
 #Path_2743 {
@@ -884,10 +807,10 @@
 .Path_2743 {
 	overflow: visible;
 	position: absolute;
-	width: 38.207px;
-	height: 10.15px;
+	width: 29.883px;
+	height: 7.938px;
 	left: 0px;
-	top: 1px;
+	top: 0.782px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2742 {
@@ -896,10 +819,10 @@
 .Path_2742 {
 	overflow: visible;
 	position: absolute;
-	width: 7.172px;
-	height: 10.09px;
-	left: 550.803px;
-	top: 1px;
+	width: 5.609px;
+	height: 7.892px;
+	left: 430.799px;
+	top: 0.782px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2741 {
@@ -908,18 +831,18 @@
 .Path_2741 {
 	overflow: visible;
 	position: absolute;
-	width: 35.77px;
-	height: 11.872px;
-	left: 562.043px;
+	width: 27.977px;
+	height: 9.285px;
+	left: 439.59px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #PROMO_CODE {
 	position: absolute;
-	width: 480.016px;
-	height: 76.212px;
-	left: 1282.984px;
-	top: 194.788px;
+	width: 376.227px;
+	height: 59.169px;
+	left: 906.861px;
+	top: 3.354px;
 	overflow: visible;
 }
 #Rectangle_200 {
@@ -934,10 +857,10 @@
 .Rectangle_200 {
 	position: absolute;
 	overflow: visible;
-	width: 252px;
-	height: 58px;
-	left: 0.016px;
-	top: 18.212px;
+	width: 197.9px;
+	height: 44.582px;
+	left: 0px;
+	top: 14.587px;
 }
 #Path_2703 {
 	fill: rgba(199,199,199,1);
@@ -945,10 +868,10 @@
 .Path_2703 {
 	overflow: visible;
 	position: absolute;
-	width: 93.135px;
-	height: 12.4px;
-	left: 19.328px;
-	top: 41.212px;
+	width: 72.844px;
+	height: 9.699px;
+	left: 15.514px;
+	top: 32.233px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Rectangle_201 {
@@ -957,10 +880,10 @@
 .Rectangle_201 {
 	position: absolute;
 	overflow: visible;
-	width: 230px;
-	height: 58px;
-	left: 250.016px;
-	top: 18.212px;
+	width: 180.502px;
+	height: 44.582px;
+	left: 195.725px;
+	top: 14.587px;
 }
 #Path_2704 {
 	fill: rgba(255,255,255,1);
@@ -968,10 +891,10 @@
 .Path_2704 {
 	overflow: visible;
 	position: absolute;
-	width: 53.633px;
-	height: 12.4px;
-	left: 341.623px;
-	top: 41.212px;
+	width: 41.947px;
+	height: 9.699px;
+	left: 267.59px;
+	top: 32.233px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2705 {
@@ -980,18 +903,18 @@
 .Path_2705 {
 	overflow: visible;
 	position: absolute;
-	width: 121.584px;
-	height: 8.832px;
-	left: 0px;
+	width: 95.094px;
+	height: 6.908px;
+	left: 0.396px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Shipping_Cost {
 	position: absolute;
-	width: 480.838px;
-	height: 13.698px;
-	left: 1281.516px;
-	top: 324.99px;
+	width: 376.078px;
+	height: 10.714px;
+	left: 906.109px;
+	top: 105.188px;
 	overflow: visible;
 }
 #Path_2706 {
@@ -1000,10 +923,10 @@
 .Path_2706 {
 	overflow: visible;
 	position: absolute;
-	width: 91.07px;
-	height: 13.398px;
+	width: 71.229px;
+	height: 10.479px;
 	left: 0px;
-	top: 0.3px;
+	top: 0.235px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2707 {
@@ -1012,18 +935,18 @@
 .Path_2707 {
 	overflow: visible;
 	position: absolute;
-	width: 26.193px;
-	height: 10.01px;
-	left: 454.645px;
+	width: 20.488px;
+	height: 7.829px;
+	left: 355.59px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Discount {
 	position: absolute;
-	width: 480.138px;
-	height: 13.656px;
-	left: 1282.133px;
-	top: 358.85px;
+	width: 375.53px;
+	height: 10.681px;
+	left: 906.592px;
+	top: 131.671px;
 	overflow: visible;
 }
 #Path_2716 {
@@ -1032,10 +955,10 @@
 .Path_2716 {
 	overflow: visible;
 	position: absolute;
-	width: 291.354px;
-	height: 13.37px;
+	width: 227.877px;
+	height: 10.457px;
 	left: 0px;
-	top: 0.286px;
+	top: 0.224px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2717 {
@@ -1044,18 +967,18 @@
 .Path_2717 {
 	overflow: visible;
 	position: absolute;
-	width: 56.775px;
-	height: 10.29px;
-	left: 423.361px;
+	width: 44.406px;
+	height: 8.048px;
+	left: 331.123px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Tax {
 	position: absolute;
-	width: 480.922px;
-	height: 11.29px;
-	left: 1281.348px;
-	top: 392.85px;
+	width: 376.143px;
+	height: 8.83px;
+	left: 905.979px;
+	top: 158.264px;
 	overflow: visible;
 }
 #Path_2710 {
@@ -1064,10 +987,10 @@
 .Path_2710 {
 	overflow: visible;
 	position: absolute;
-	width: 22.148px;
-	height: 10.15px;
+	width: 17.324px;
+	height: 7.938px;
 	left: 0px;
-	top: 1.14px;
+	top: 0.892px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2718 {
@@ -1076,18 +999,18 @@
 .Path_2718 {
 	overflow: visible;
 	position: absolute;
-	width: 58.414px;
-	height: 10.29px;
-	left: 422.508px;
+	width: 45.688px;
+	height: 8.048px;
+	left: 330.455px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Estimated_Total {
 	position: absolute;
-	width: 478.808px;
-	height: 20.352px;
-	left: 1282.953px;
-	top: 442.6px;
+	width: 374.49px;
+	height: 15.918px;
+	left: 907.232px;
+	top: 197.175px;
 	overflow: visible;
 }
 #Path_2728 {
@@ -1096,10 +1019,10 @@
 .Path_2728 {
 	overflow: visible;
 	position: absolute;
-	width: 172.127px;
-	height: 18.6px;
-	left: 0px;
-	top: 0.04px;
+	width: 134.625px;
+	height: 14.547px;
+	left: 0.002px;
+	top: 0.031px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2729 {
@@ -1108,18 +1031,18 @@
 .Path_2729 {
 	overflow: visible;
 	position: absolute;
-	width: 122.436px;
-	height: 20.352px;
-	left: 356.371px;
+	width: 95.762px;
+	height: 15.918px;
+	left: 278.729px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Free_Payment_CRAZYPAY {
 	position: absolute;
-	width: 355px;
-	height: 69px;
-	left: 1408px;
-	top: 483px;
+	width: 278.365px;
+	height: 54.368px;
+	left: 1004.723px;
+	top: 228.89px;
 	overflow: visible;
 }
 #Rectangle_203 {
@@ -1134,40 +1057,40 @@
 .Rectangle_203 {
 	position: absolute;
 	overflow: visible;
-	width: 355px;
-	height: 69px;
+	width: 278.365px;
+	height: 54.368px;
 	left: 0px;
 	top: 0px;
 }
 #Message_Content {
 	position: absolute;
-	width: 298.269px;
-	height: 47.436px;
-	left: 28px;
-	top: 11.084px;
+	width: 233.285px;
+	height: 37.101px;
+	left: 22.213px;
+	top: 8.553px;
 	overflow: visible;
 }
 #Crazypay_Logo {
 	position: absolute;
-	width: 65.02px;
-	height: 47.436px;
-	left: 209px;
+	width: 50.854px;
+	height: 37.101px;
+	left: 163.465px;
 	top: 0px;
 	overflow: visible;
 }
 #Crazypay_Logo_e {
 	position: absolute;
-	width: 65.02px;
-	height: 47.436px;
+	width: 50.854px;
+	height: 37.101px;
 	left: 0px;
 	top: 0px;
 	overflow: visible;
 }
 #Logo {
 	position: absolute;
-	width: 51.343px;
-	height: 40.286px;
-	left: 2.504px;
+	width: 40.157px;
+	height: 31.509px;
+	left: 1.959px;
 	top: 0px;
 	overflow: visible;
 }
@@ -1177,10 +1100,10 @@
 .Subtraction_1 {
 	overflow: visible;
 	position: absolute;
-	width: 38.389px;
-	height: 40.182px;
+	width: 30.025px;
+	height: 31.427px;
 	left: 0.002px;
-	top: 0.053px;
+	top: 0.042px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Subtraction_2 {
@@ -1189,9 +1112,9 @@
 .Subtraction_2 {
 	overflow: visible;
 	position: absolute;
-	width: 12.953px;
-	height: 40.286px;
-	left: 38.391px;
+	width: 10.131px;
+	height: 31.509px;
+	left: 30.025px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -1201,10 +1124,10 @@
 .Path_2746 {
 	overflow: visible;
 	position: absolute;
-	width: 39.441px;
-	height: 25.505px;
+	width: 30.848px;
+	height: 19.948px;
 	left: 0px;
-	top: 21.931px;
+	top: 17.153px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2747 {
@@ -1213,10 +1136,10 @@
 .Path_2747 {
 	overflow: visible;
 	position: absolute;
-	width: 23.684px;
-	height: 21.478px;
-	left: 41.336px;
-	top: 25.771px;
+	width: 18.523px;
+	height: 16.798px;
+	left: 32.33px;
+	top: 20.156px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Path_2750 {
@@ -1225,18 +1148,18 @@
 .Path_2750 {
 	overflow: visible;
 	position: absolute;
-	width: 200.93px;
-	height: 11.604px;
+	width: 157.152px;
+	height: 9.076px;
 	left: -0.002px;
-	top: 17.916px;
+	top: 14.012px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Info_Button {
 	position: absolute;
-	width: 18px;
-	height: 18px;
-	left: 280.268px;
-	top: 14.916px;
+	width: 14.078px;
+	height: 14.078px;
+	left: 219.205px;
+	top: 11.666px;
 	overflow: visible;
 }
 #Ellipse_280 {
@@ -1251,24 +1174,24 @@
 .Ellipse_280 {
 	position: absolute;
 	overflow: visible;
-	width: 18px;
-	height: 18px;
+	width: 14.078px;
+	height: 14.078px;
 	left: 0px;
 	top: 0px;
 }
 #i {
 	display: none;
-	left: -21.354px;
-	top: 7px;
+	left: -16.699px;
+	top: 5.475px;
 	position: absolute;
 	overflow: visible;
-	width: 4px;
+	width: 3px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Montserrat Alternates;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 12px;
+	font-size: 8px;
 	color: rgba(170,170,170,1);
 }
 #Path_2745 {
@@ -1277,18 +1200,18 @@
 .Path_2745 {
 	overflow: visible;
 	position: absolute;
-	width: 1.559px;
-	height: 9.084px;
-	left: 8px;
-	top: 4px;
+	width: 1.219px;
+	height: 7.105px;
+	left: 6.258px;
+	top: 3.128px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Get_Help {
 	position: absolute;
-	width: 98.137px;
-	height: 75.533px;
-	left: 1664.863px;
-	top: 603.426px;
+	width: 76.756px;
+	height: 59.077px;
+	left: 1205.938px;
+	top: 322.961px;
 	overflow: visible;
 }
 #Icon_material-chat-bubble {
@@ -1297,8 +1220,8 @@
 .Icon_material-chat-bubble {
 	overflow: visible;
 	position: absolute;
-	width: 98.137px;
-	height: 75.533px;
+	width: 76.756px;
+	height: 59.077px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
@@ -1309,45 +1232,45 @@
 .Path_2730 {
 	overflow: visible;
 	position: absolute;
-	width: 62.932px;
-	height: 13.37px;
-	left: 17.057px;
-	top: 24.178px;
+	width: 49.221px;
+	height: 10.457px;
+	left: 13.34px;
+	top: 18.911px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Prod_DENSE {
 	position: absolute;
-	width: 162px;
-	height: 251.108px;
-	left: 128px;
-	top: 611px;
+	width: 126.134px;
+	height: 196.358px;
+	left: 4.35px;
+	top: 328.927px;
 	overflow: visible;
 }
-#Rectangle_198_fk {
-	fill: url(#Rectangle_198_fk);
+#Rectangle_198_fg {
+	fill: url(#Rectangle_198_fg);
 }
-.Rectangle_198_fk {
+.Rectangle_198_fg {
 	position: absolute;
 	overflow: visible;
-	width: 138px;
-	height: 196px;
-	left: 12px;
+	width: 107.648px;
+	height: 153.318px;
+	left: 8.699px;
 	top: 0px;
 }
 #Male_Serum {
 	position: absolute;
-	width: 162px;
-	height: 162px;
+	width: 126.135px;
+	height: 126.134px;
 	left: 0px;
-	top: 17px;
+	top: 13.048px;
 	overflow: visible;
 }
 #DENSE_Name {
 	position: absolute;
-	width: 60.864px;
-	height: 32.244px;
-	left: 51.08px;
-	top: 218.864px;
+	width: 47.604px;
+	height: 25.219px;
+	left: 39.512px;
+	top: 171.139px;
 	overflow: visible;
 }
 #Path_2720 {
@@ -1356,9 +1279,9 @@
 .Path_2720 {
 	overflow: visible;
 	position: absolute;
-	width: 43.988px;
-	height: 10.276px;
-	left: 9.234px;
+	width: 34.404px;
+	height: 8.038px;
+	left: 7.223px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -1368,45 +1291,45 @@
 .Path_2721 {
 	overflow: visible;
 	position: absolute;
-	width: 60.863px;
-	height: 9.012px;
+	width: 47.604px;
+	height: 7.048px;
 	left: 0px;
-	top: 23.232px;
+	top: 18.171px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Prod_MISHU {
 	position: absolute;
-	width: 171px;
-	height: 251.108px;
-	left: 402px;
-	top: 611px;
+	width: 133.746px;
+	height: 196.358px;
+	left: 218.561px;
+	top: 328.927px;
 	overflow: visible;
 }
-#Rectangle_198_fr {
-	fill: url(#Rectangle_198_fr);
+#Rectangle_198_fn {
+	fill: url(#Rectangle_198_fn);
 }
-.Rectangle_198_fr {
+.Rectangle_198_fn {
 	position: absolute;
 	overflow: visible;
-	width: 138px;
-	height: 196px;
-	left: 17px;
+	width: 107.648px;
+	height: 153.318px;
+	left: 13.049px;
 	top: 0px;
 }
 #Male_Conditioner {
 	position: absolute;
-	width: 171px;
-	height: 172px;
+	width: 133.746px;
+	height: 133.746px;
 	left: 0px;
-	top: 12px;
+	top: 9.787px;
 	overflow: visible;
 }
 #MISHU_Name {
 	position: absolute;
-	width: 91.308px;
-	height: 32.244px;
-	left: 40.08px;
-	top: 218.864px;
+	width: 71.415px;
+	height: 25.219px;
+	left: 31.002px;
+	top: 171.139px;
 	overflow: visible;
 }
 #Path_2722 {
@@ -1415,9 +1338,9 @@
 .Path_2722 {
 	overflow: visible;
 	position: absolute;
-	width: 44.072px;
-	height: 10.276px;
-	left: 23.926px;
+	width: 34.471px;
+	height: 8.038px;
+	left: 18.713px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -1427,45 +1350,45 @@
 .Path_2723 {
 	overflow: visible;
 	position: absolute;
-	width: 91.309px;
-	height: 9.384px;
+	width: 71.414px;
+	height: 7.339px;
 	left: 0px;
-	top: 22.86px;
+	top: 17.88px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Prod_DENSIFIQUE {
 	position: absolute;
-	width: 163px;
-	height: 253.292px;
-	left: 685px;
-	top: 611px;
+	width: 127.221px;
+	height: 198.066px;
+	left: 439.293px;
+	top: 328.927px;
 	overflow: visible;
 }
-#Rectangle_198_fy {
-	fill: url(#Rectangle_198_fy);
+#Rectangle_198_fu {
+	fill: url(#Rectangle_198_fu);
 }
-.Rectangle_198_fy {
+.Rectangle_198_fu {
 	position: absolute;
 	overflow: visible;
-	width: 138px;
-	height: 196px;
-	left: 13px;
+	width: 107.648px;
+	height: 153.318px;
+	left: 10.875px;
 	top: 0px;
 }
 #Male_Hair_Strength {
 	position: absolute;
-	width: 163px;
-	height: 163px;
+	width: 127.221px;
+	height: 127.221px;
 	left: 0px;
-	top: 17px;
+	top: 13.048px;
 	overflow: visible;
 }
 #DENSIFIQUE_Name {
 	position: absolute;
-	width: 140.266px;
-	height: 34.442px;
-	left: 12.176px;
-	top: 218.85px;
+	width: 109.706px;
+	height: 26.938px;
+	left: 9.787px;
+	top: 171.128px;
 	overflow: visible;
 }
 #Path_2724 {
@@ -1474,8 +1397,8 @@
 .Path_2724 {
 	overflow: visible;
 	position: absolute;
-	width: 140.266px;
-	height: 11.424px;
+	width: 109.705px;
+	height: 8.935px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
@@ -1486,18 +1409,18 @@
 .Path_2725 {
 	overflow: visible;
 	position: absolute;
-	width: 92.039px;
-	height: 11.568px;
-	left: 24.123px;
-	top: 22.874px;
+	width: 71.986px;
+	height: 9.047px;
+	left: 18.867px;
+	top: 17.891px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Prod_NATURLICH {
 	position: absolute;
-	width: 159px;
-	height: 253.184px;
-	left: 957px;
-	top: 611px;
+	width: 123.959px;
+	height: 197.981px;
+	left: 652.418px;
+	top: 328.927px;
 	overflow: visible;
 }
 #Rectangle_198_ga {
@@ -1506,25 +1429,25 @@
 .Rectangle_198_ga {
 	position: absolute;
 	overflow: visible;
-	width: 139px;
-	height: 196px;
-	left: 13px;
+	width: 108.736px;
+	height: 153.318px;
+	left: 9.785px;
 	top: 0px;
 }
 #Male_Hair_Color {
 	position: absolute;
-	width: 159px;
-	height: 159px;
+	width: 123.959px;
+	height: 123.959px;
 	left: 0px;
-	top: 19px;
+	top: 15.223px;
 	overflow: visible;
 }
 #NATURLICH_Name {
 	position: absolute;
-	width: 77.378px;
-	height: 34.348px;
-	left: 44.318px;
-	top: 218.836px;
+	width: 60.52px;
+	height: 26.865px;
+	left: 34.541px;
+	top: 171.117px;
 	overflow: visible;
 }
 #Path_2726 {
@@ -1533,8 +1456,8 @@
 .Path_2726 {
 	overflow: visible;
 	position: absolute;
-	width: 77.377px;
-	height: 10.304px;
+	width: 60.52px;
+	height: 8.059px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
@@ -1545,18 +1468,18 @@
 .Path_2744 {
 	overflow: visible;
 	position: absolute;
-	width: 45.732px;
-	height: 11.088px;
-	left: 16.098px;
-	top: 23.26px;
+	width: 35.768px;
+	height: 8.672px;
+	left: 12.59px;
+	top: 18.193px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Checkout {
 	position: absolute;
-	width: 336px;
-	height: 58px;
-	left: 1354px;
-	top: 804px;
+	width: 263.142px;
+	height: 45.669px;
+	left: 962.314px;
+	top: 480.071px;
 	overflow: visible;
 }
 #Rectangle_202 {
@@ -1565,17 +1488,17 @@
 .Rectangle_202 {
 	position: absolute;
 	overflow: visible;
-	width: 336px;
-	height: 58px;
+	width: 263.143px;
+	height: 45.669px;
 	left: 0px;
 	top: 0px;
 }
 #Text__Icon {
 	position: absolute;
-	width: 99.104px;
-	height: 21.123px;
-	left: 118px;
-	top: 18px;
+	width: 77.512px;
+	height: 16.521px;
+	left: 92.777px;
+	top: 13.844px;
 	overflow: visible;
 }
 #Path_2731 {
@@ -1584,10 +1507,10 @@
 .Path_2731 {
 	overflow: visible;
 	position: absolute;
-	width: 72.367px;
-	height: 12.4px;
-	left: 26.736px;
-	top: 5.76px;
+	width: 56.602px;
+	height: 9.699px;
+	left: 20.912px;
+	top: 4.505px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Icon_material-lock-outline {
@@ -1596,8 +1519,8 @@
 .Icon_material-lock-outline {
 	overflow: visible;
 	position: absolute;
-	width: 16.094px;
-	height: 21.123px;
+	width: 12.588px;
+	height: 16.521px;
 	left: 0px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
