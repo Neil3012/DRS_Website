@@ -7,7 +7,6 @@
 :root {
 	--web-view-ids: Web_E-Com_1B__1;
 }
-
 * {
 	margin: 0;
 	padding: 0;
@@ -16,7 +15,7 @@
 }
 #Web_E-Com_1B__1 {
 	position: absolute;
-	width: 900px;
+	width: 1197px;
 	height: 958px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
