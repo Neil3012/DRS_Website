@@ -15,8 +15,8 @@
 }
 #Web_E-Com_1B__1 {
 	position: absolute;
-	width: 1197px;
-	height: 958px;
+	width: 100%;
+	height: 100%;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Web E-Com 1B – 1;
@@ -942,14 +942,14 @@
 }
 body {
 	overflow-y: hidden; /* Hide vertical scrollbar */
-	overflow-x: hidden; /* Hide horizontal scrollbar */
-	margin: 0;
+	/*overflow-x: hidden;*/ /* Hide horizontal scrollbar */
+	/*margin: 0;
 	padding: 0;
 	height: 100%;
 	max-height: 100%;
 	background: green;
 	float: left;
-	width: 100%;
+	width: 100%;*/
 }
 #Discount {
 	position: absolute;
