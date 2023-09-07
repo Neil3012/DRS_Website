@@ -7,10 +7,7 @@
 :root {
 	--web-view-ids: Web_E-Com_1B__1;
 }
-
-
-body
-{
+body{
 	height:100%;
 	width:100%;
 	overflow:hidden;
