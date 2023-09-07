@@ -15,8 +15,8 @@
 }
 #Web_E-Com_1B__1 {
 	position: absolute;
-	width: 100%;
-	height: 100%;
+	width: 1197px;
+	height: 958px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Web E-Com 1B – 1;
@@ -30,7 +30,7 @@
 	height: 46.977px;
 	left: 0.5px;
 	top: 20.496px;
-	
+	overflow: visible;
 }
 #AMS_LOGO_UNIT {
 	mix-blend-mode: normal;
@@ -39,6 +39,7 @@
 	height: 37.61px;
 	left: 31.463px;
 	top: 0px;
+	overflow: visible;
 }
 #AMS_Logo {
 	position: absolute;
@@ -46,7 +47,7 @@
 	height: 35.788px;
 	left: 0px;
 	top: 0px;
-	
+	overflow: visible;
 }
 #Accenture_Logo {
 	position: absolute;
@@ -54,13 +55,13 @@
 	height: 21.326px;
 	left: 0px;
 	top: 0px;
-	
+	overflow: visible;
 }
 #Path_2617 {
 	fill: rgba(161,0,255,1);
 }
 .Path_2617 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 20.012px;
 	height: 21.326px;
@@ -74,13 +75,13 @@
 	height: 19.797px;
 	left: 1.068px;
 	top: 15.991px;
-	
+	overflow: visible;
 }
 #Path_2618_ci {
 	fill: url(#Path_2618_ci);
 }
 .Path_2618_ci {
-	
+	overflow: visible;
 	position: absolute;
 	width: 16.006px;
 	height: 13.577px;
@@ -93,7 +94,7 @@
 }
 .Path_2619_ck {
 	mix-blend-mode: multiply;
-	
+	overflow: visible;
 	position: absolute;
 	width: 16.006px;
 	height: 13.577px;
@@ -105,7 +106,7 @@
 	fill: url(#Path_2620_cm);
 }
 .Path_2620_cm {
-	
+	overflow: visible;
 	position: absolute;
 	width: 11.574px;
 	height: 15.063px;
@@ -119,7 +120,7 @@
 }
 .Path_2621_co {
 	mix-blend-mode: overlay;
-	
+	overflow: visible;
 	position: absolute;
 	width: 6.898px;
 	height: 6.125px;
@@ -131,7 +132,7 @@
 	fill: url(#Path_2622_cq);
 }
 .Path_2622_cq {
-	
+	overflow: visible;
 	position: absolute;
 	width: 14.906px;
 	height: 13.578px;
@@ -144,7 +145,7 @@
 }
 .Path_2623_cs {
 	mix-blend-mode: multiply;
-	
+	overflow: visible;
 	position: absolute;
 	width: 14.906px;
 	height: 13.578px;
@@ -157,7 +158,7 @@
 }
 .Path_2624_cu {
 	mix-blend-mode: multiply;
-	
+	overflow: visible;
 	position: absolute;
 	width: 7.621px;
 	height: 6.494px;
@@ -169,7 +170,7 @@
 	fill: url(#Path_2625_cw);
 }
 .Path_2625_cw {
-	
+	overflow: visible;
 	position: absolute;
 	width: 7.303px;
 	height: 13.576px;
@@ -181,7 +182,7 @@
 	fill: rgba(255,255,255,1);
 }
 .Path_2626 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 16.16px;
 	height: 12.122px;
@@ -193,7 +194,7 @@
 	fill: url(#Path_2627_cz);
 }
 .Path_2627_cz {
-	
+	overflow: visible;
 	position: absolute;
 	width: 26.693px;
 	height: 13.28px;
@@ -205,7 +206,7 @@
 	fill: rgba(160,1,255,1);
 }
 .Path_2631 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 133.582px;
 	height: 8.801px;
@@ -219,13 +220,13 @@
 	height: 7.6px;
 	left: 285.832px;
 	top: 24.994px;
-	
+	overflow: visible;
 }
 #Path_2733 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2733 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 38.631px;
 	height: 7.58px;
@@ -237,7 +238,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2734 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 20.328px;
 	height: 7.393px;
@@ -249,7 +250,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2735 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 100.826px;
 	height: 7.6px;
@@ -261,7 +262,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2736 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 82.215px;
 	height: 7.6px;
@@ -273,7 +274,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2737 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 109.873px;
 	height: 7.6px;
@@ -285,7 +286,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2738 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 23.658px;
 	height: 7.58px;
@@ -297,7 +298,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2739 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 56.064px;
 	height: 7.58px;
@@ -311,7 +312,7 @@
 	height: 17.392px;
 	left: 1012.959px;
 	top: 15.514px;
-	
+	overflow: visible;
 }
 #Icon_material-account-circle {
 	fill: transparent;
@@ -323,7 +324,7 @@
 	shape-rendering: auto;
 }
 .Icon_material-account-circle {
-	
+	overflow: visible;
 	position: absolute;
 	width: 17.201px;
 	height: 17.202px;
@@ -341,7 +342,7 @@
 	shape-rendering: auto;
 }
 .Icon_material-shopping-cart {
-	
+	overflow: visible;
 	position: absolute;
 	width: 16.922px;
 	height: 16.922px;
@@ -355,14 +356,14 @@
 	height: 13px;
 	left: 61.541px;
 	top: 3.99px;
-	
+	overflow: visible;
 }
 #Ellipse_279 {
 	fill: rgba(160,1,255,1);
 }
 .Ellipse_279 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 13px;
 	height: 13px;
 	left: 0px;
@@ -378,7 +379,7 @@
 	shape-rendering: auto;
 }
 .Path_2674 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 2.998px;
 	height: 7.733px;
@@ -396,7 +397,7 @@
 	shape-rendering: auto;
 }
 .Icon_ionic-ios-heart {
-	
+	overflow: visible;
 	position: absolute;
 	width: 17.984px;
 	height: 17.446px;
@@ -414,7 +415,7 @@
 	shape-rendering: auto;
 }
 .Line_29 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 1196.5px;
 	height: 2px;
@@ -428,13 +429,13 @@
 	height: 28.748px;
 	left: 538.039px;
 	top: 122.089px;
-	
+	overflow: visible;
 }
 #Path_2732 {
 	fill: rgba(95,95,95,1);
 }
 .Path_2732 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 120.768px;
 	height: 28.748px;
@@ -448,7 +449,7 @@
 	height: 474.447px;
 	left: 21.328px;
 	top: 199.248px;
-	
+	overflow: visible;
 }
 #LEFT_UNIT {
 	position: absolute;
@@ -456,7 +457,7 @@
 	height: 216.435px;
 	left: 0px;
 	top: 0px;
-	
+	overflow: visible;
 }
 #Line_34 {
 	fill: transparent;
@@ -468,7 +469,7 @@
 	shape-rendering: auto;
 }
 .Line_34 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 537.262px;
 	height: 2px;
@@ -482,14 +483,14 @@
 	height: 118.764px;
 	left: 0px;
 	top: 41.213px;
-	
+	overflow: visible;
 }
 #Rectangle_198_do {
 	fill: url(#Rectangle_198_do);
 }
 .Rectangle_198_do {
 	position: absolute;
-	
+	overflow: visible;
 	width: 84.197px;
 	height: 118.764px;
 	left: 11.521px;
@@ -501,7 +502,7 @@
 	height: 108.128px;
 	left: 0px;
 	top: 5.318px;
-	
+	overflow: visible;
 }
 #HAIRSLEEK_Name {
 	position: absolute;
@@ -509,13 +510,13 @@
 	height: 24.166px;
 	left: 124.633px;
 	top: 40.393px;
-	
+	overflow: visible;
 }
 #Path_2714 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2714 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 52.494px;
 	height: 7.236px;
@@ -527,7 +528,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2715 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 125.09px;
 	height: 8.095px;
@@ -541,13 +542,13 @@
 	height: 27.602px;
 	left: 309.225px;
 	top: 41.065px;
-	
+	overflow: visible;
 }
 #Path_2691 {
 	fill: rgba(98,98,98,1);
 }
 .Path_2691 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 18.361px;
 	height: 6.549px;
@@ -559,7 +560,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2683 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 5.049px;
 	height: 7.104px;
@@ -571,7 +572,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2700 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 25.188px;
 	height: 8.359px;
@@ -585,13 +586,13 @@
 	height: 32.796px;
 	left: 398.834px;
 	top: 41.209px;
-	
+	overflow: visible;
 }
 #Path_2748 {
 	fill: rgba(98,98,98,1);
 }
 .Path_2748 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 34.465px;
 	height: 7.833px;
@@ -610,7 +611,7 @@
 }
 .Rectangle_199 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 61.154px;
 	height: 19.499px;
 	left: 0px;
@@ -620,7 +621,7 @@
 	fill: rgba(60,60,60,1);
 }
 .Path_2749 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 2.408px;
 	height: 6.042px;
@@ -634,7 +635,7 @@
 	height: 2.988px;
 	left: 49.705px;
 	top: 23.22px;
-	
+	overflow: visible;
 }
 #Line_32 {
 	fill: transparent;
@@ -646,7 +647,7 @@
 	shape-rendering: auto;
 }
 .Line_32 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 0px;
 	height: 4.225px;
@@ -665,7 +666,7 @@
 	shape-rendering: auto;
 }
 .Line_33 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 0px;
 	height: 4.225px;
@@ -680,13 +681,13 @@
 	height: 27.602px;
 	left: 515.893px;
 	top: 41.065px;
-	
+	overflow: visible;
 }
 #Path_2692 {
 	fill: rgba(98,98,98,1);
 }
 .Path_2692 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 18.732px;
 	height: 6.549px;
@@ -698,7 +699,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2693 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 5.049px;
 	height: 7.104px;
@@ -710,7 +711,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2701 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 25.188px;
 	height: 8.359px;
@@ -724,13 +725,13 @@
 	height: 6.591px;
 	left: 128.848px;
 	top: 171.985px;
-	
+	overflow: visible;
 }
 #Path_2695 {
 	fill: rgba(98,98,98,1);
 }
 .Path_2695 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 14.686px;
 	height: 6.549px;
@@ -742,7 +743,7 @@
 	fill: rgba(98,98,98,1);
 }
 .Path_2696 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 31.475px;
 	height: 6.126px;
@@ -754,7 +755,7 @@
 	fill: rgba(98,98,98,1);
 }
 .Path_2697 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 64.691px;
 	height: 6.549px;
@@ -766,7 +767,7 @@
 	fill: rgba(98,98,98,1);
 }
 .Path_2698 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 54.883px;
 	height: 6.591px;
@@ -784,7 +785,7 @@
 	shape-rendering: auto;
 }
 .Line_35 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 537.262px;
 	height: 2px;
@@ -798,13 +799,13 @@
 	height: 8.36px;
 	left: 128.293px;
 	top: 208.075px;
-	
+	overflow: visible;
 }
 #Path_2743 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2743 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 26.902px;
 	height: 7.147px;
@@ -816,7 +817,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2742 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 5.049px;
 	height: 7.104px;
@@ -828,7 +829,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2741 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 25.188px;
 	height: 8.359px;
@@ -842,7 +843,7 @@
 	height: 54.147px;
 	left: 816.797px;
 	top: 3.019px;
-	
+	overflow: visible;
 }
 #Rectangle_200 {
 	fill: rgba(255,255,255,1);
@@ -855,7 +856,7 @@
 }
 .Rectangle_200 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 177.26px;
 	height: 41.656px;
 	left: 0.369px;
@@ -865,7 +866,7 @@
 	fill: rgba(199,199,199,1);
 }
 .Path_2703 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 65.58px;
 	height: 8.731px;
@@ -878,7 +879,7 @@
 }
 .Rectangle_201 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 161.307px;
 	height: 41.656px;
 	left: 176.742px;
@@ -888,7 +889,7 @@
 	fill: rgba(255,255,255,1);
 }
 .Path_2704 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 37.766px;
 	height: 8.731px;
@@ -900,7 +901,7 @@
 	fill: rgba(98,98,98,1);
 }
 .Path_2705 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 85.613px;
 	height: 6.219px;
@@ -914,13 +915,13 @@
 	height: 9.645px;
 	left: 815.764px;
 	top: 94.7px;
-	
+	overflow: visible;
 }
 #Path_2706 {
 	fill: rgba(136,136,136,1);
 }
 .Path_2706 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 64.127px;
 	height: 9.434px;
@@ -932,7 +933,7 @@
 	fill: rgba(136,136,136,1);
 }
 .Path_2707 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 18.445px;
 	height: 7.048px;
@@ -940,20 +941,19 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-
 #Discount {
 	position: absolute;
 	width: 338.087px;
 	height: 9.616px;
 	left: 816.197px;
 	top: 118.542px;
-	
+	overflow: visible;
 }
 #Path_2716 {
 	fill: rgba(136,136,136,1);
 }
 .Path_2716 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 205.154px;
 	height: 9.414px;
@@ -965,7 +965,7 @@
 	fill: rgba(136,136,136,1);
 }
 .Path_2717 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 39.979px;
 	height: 7.246px;
@@ -979,13 +979,13 @@
 	height: 7.95px;
 	left: 815.645px;
 	top: 142.483px;
-	
+	overflow: visible;
 }
 #Path_2710 {
 	fill: rgba(136,136,136,1);
 }
 .Path_2710 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 15.596px;
 	height: 7.147px;
@@ -997,7 +997,7 @@
 	fill: rgba(136,136,136,1);
 }
 .Path_2718 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 41.133px;
 	height: 7.246px;
@@ -1011,13 +1011,13 @@
 	height: 14.331px;
 	left: 816.773px;
 	top: 177.515px;
-	
+	overflow: visible;
 }
 #Path_2728 {
 	fill: rgba(92,92,92,1);
 }
 .Path_2728 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 121.203px;
 	height: 13.097px;
@@ -1029,7 +1029,7 @@
 	fill: rgba(92,92,92,1);
 }
 .Path_2729 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 86.213px;
 	height: 14.331px;
@@ -1043,7 +1043,7 @@
 	height: 48.746px;
 	left: 886.297px;
 	top: 206.063px;
-	
+	overflow: visible;
 }
 #Rectangle_203 {
 	fill: rgba(255,253,235,1);
@@ -1056,7 +1056,7 @@
 }
 .Rectangle_203 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 268.547px;
 	height: 48.746px;
 	left: 0px;
@@ -1068,7 +1068,7 @@
 	height: 34.81px;
 	left: 20.99px;
 	top: 6.94px;
-	
+	overflow: visible;
 }
 #Crazypay_Logo {
 	position: absolute;
@@ -1076,7 +1076,7 @@
 	height: 34.81px;
 	left: 163.227px;
 	top: 0px;
-	
+	overflow: visible;
 }
 #Logo {
 	transform: translate(0px, 0px) matrix(1,0,0,1,7.1921,-3.9592) rotate(90deg);
@@ -1086,13 +1086,13 @@
 	height: 36.764px;
 	left: 0px;
 	top: 0px;
-	
+	overflow: visible;
 }
 #Subtraction_1 {
 	fill: rgba(255,0,0,1);
 }
 .Subtraction_1 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 27.488px;
 	height: 28.771px;
@@ -1104,7 +1104,7 @@
 	fill: rgba(0,118,255,1);
 }
 .Subtraction_2 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 9.277px;
 	height: 28.846px;
@@ -1119,7 +1119,7 @@
 	left: 0px;
 	top: 0px;
 	position: absolute;
-	
+	overflow: visible;
 	width: 27px;
 	white-space: nowrap;
 	text-align: left;
@@ -1133,7 +1133,7 @@
 	fill: rgba(0,118,255,1);
 }
 .Path_2746 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 29.997px;
 	height: 6.878px;
@@ -1149,7 +1149,7 @@
 	left: 0px;
 	top: 0px;
 	position: absolute;
-	
+	overflow: visible;
 	width: 17px;
 	white-space: nowrap;
 	text-align: left;
@@ -1163,7 +1163,7 @@
 	fill: rgba(255,1,0,1);
 }
 .Path_2747 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 17.398px;
 	height: 6.878px;
@@ -1176,7 +1176,7 @@
 	fill: rgba(136,136,136,1);
 }
 .Path_2751 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 158.078px;
 	height: 8.171px;
@@ -1190,7 +1190,7 @@
 	height: 12.675px;
 	left: 214.281px;
 	top: 10.562px;
-	
+	overflow: visible;
 }
 #Ellipse_280 {
 	fill: rgba(255,255,255,1);
@@ -1203,7 +1203,7 @@
 }
 .Ellipse_280 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 12.674px;
 	height: 12.675px;
 	left: 0px;
@@ -1214,7 +1214,7 @@
 	left: -15.037px;
 	top: 4.929px;
 	position: absolute;
-	
+	overflow: visible;
 	width: 2px;
 	white-space: nowrap;
 	text-align: left;
@@ -1228,7 +1228,7 @@
 	fill: rgba(170,170,170,1);
 }
 .Path_2745 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 1.098px;
 	height: 6.396px;
@@ -1242,13 +1242,13 @@
 	height: 53.186px;
 	left: 1085.695px;
 	top: 290.759px;
-	
+	overflow: visible;
 }
 #Icon_material-chat-bubble {
 	fill: rgba(160,1,255,1);
 }
 .Icon_material-chat-bubble {
-	
+	overflow: visible;
 	position: absolute;
 	width: 69.102px;
 	height: 53.186px;
@@ -1260,7 +1260,7 @@
 	fill: rgba(255,255,255,1);
 }
 .Path_2730 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 44.313px;
 	height: 9.414px;
@@ -1274,14 +1274,14 @@
 	height: 177.33px;
 	left: 3.545px;
 	top: 295.58px;
-	
+	overflow: visible;
 }
 #Rectangle_198_fl {
 	fill: url(#Rectangle_198_fl);
 }
 .Rectangle_198_fl {
 	position: absolute;
-	
+	overflow: visible;
 	width: 98.379px;
 	height: 138.262px;
 	left: 7.977px;
@@ -1293,7 +1293,7 @@
 	height: 113.446px;
 	left: 0px;
 	top: 13.294px;
-	
+	overflow: visible;
 }
 #DENSE_Name {
 	position: absolute;
@@ -1301,13 +1301,13 @@
 	height: 22.704px;
 	left: 35.943px;
 	top: 154.625px;
-	
+	overflow: visible;
 }
 #Path_2720 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2720 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 30.973px;
 	height: 7.236px;
@@ -1319,7 +1319,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2721 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 42.857px;
 	height: 6.346px;
@@ -1333,14 +1333,14 @@
 	height: 177.33px;
 	left: 196.756px;
 	top: 295.58px;
-	
+	overflow: visible;
 }
 #Rectangle_198_fs {
 	fill: url(#Rectangle_198_fs);
 }
 .Rectangle_198_fs {
 	position: absolute;
-	
+	overflow: visible;
 	width: 97.492px;
 	height: 138.262px;
 	left: 11.523px;
@@ -1352,7 +1352,7 @@
 	height: 120.536px;
 	left: 0px;
 	top: 8.863px;
-	
+	overflow: visible;
 }
 #MISHU_Name {
 	position: absolute;
@@ -1360,13 +1360,13 @@
 	height: 22.704px;
 	left: 27.922px;
 	top: 154.625px;
-	
+	overflow: visible;
 }
 #Path_2722 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2722 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 31.033px;
 	height: 7.236px;
@@ -1378,7 +1378,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2723 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 64.295px;
 	height: 6.607px;
@@ -1392,14 +1392,14 @@
 	height: 178.867px;
 	left: 396.174px;
 	top: 295.58px;
-	
+	overflow: visible;
 }
 #Rectangle_198_fz {
 	fill: url(#Rectangle_198_fz);
 }
 .Rectangle_198_fz {
 	position: absolute;
-	
+	overflow: visible;
 	width: 96.605px;
 	height: 138.262px;
 	left: 8.863px;
@@ -1411,7 +1411,7 @@
 	height: 113.446px;
 	left: 0px;
 	top: 13.294px;
-	
+	overflow: visible;
 }
 #DENSIFIQUE_Name {
 	position: absolute;
@@ -1419,13 +1419,13 @@
 	height: 24.252px;
 	left: 8.129px;
 	top: 154.615px;
-	
+	overflow: visible;
 }
 #Path_2724 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2724 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 98.768px;
 	height: 8.044px;
@@ -1437,7 +1437,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2725 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 64.809px;
 	height: 8.146px;
@@ -1451,14 +1451,14 @@
 	height: 178.791px;
 	left: 587.613px;
 	top: 295.58px;
-	
+	overflow: visible;
 }
 #Rectangle_198_ga {
 	fill: url(#Rectangle_198_ga);
 }
 .Rectangle_198_ga {
 	position: absolute;
-	
+	overflow: visible;
 	width: 97.492px;
 	height: 138.262px;
 	left: 8.863px;
@@ -1470,7 +1470,7 @@
 	height: 111.673px;
 	left: 0px;
 	top: 14.181px;
-	
+	overflow: visible;
 }
 #NATURLICH_Name {
 	position: absolute;
@@ -1478,13 +1478,13 @@
 	height: 24.186px;
 	left: 30.85px;
 	top: 154.605px;
-	
+	overflow: visible;
 }
 #Path_2726 {
 	fill: rgba(0,0,0,1);
 }
 .Path_2726 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 54.484px;
 	height: 7.255px;
@@ -1496,7 +1496,7 @@
 	fill: rgba(0,0,0,1);
 }
 .Path_2744 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 32.201px;
 	height: 7.807px;
@@ -1510,14 +1510,14 @@
 	height: 40.77px;
 	left: 866.797px;
 	top: 432.069px;
-	
+	overflow: visible;
 }
 #Rectangle_202 {
 	fill: rgba(160,1,255,1);
 }
 .Rectangle_202 {
 	position: absolute;
-	
+	overflow: visible;
 	width: 236.641px;
 	height: 40.77px;
 	left: 0px;
@@ -1529,13 +1529,13 @@
 	height: 14.874px;
 	left: 83.094px;
 	top: 12.598px;
-	
+	overflow: visible;
 }
 #Path_2731 {
 	fill: rgba(255,255,255,1);
 }
 .Path_2731 {
-	
+	overflow: visible;
 	position: absolute;
 	width: 50.957px;
 	height: 8.731px;
@@ -1547,7 +1547,7 @@
 	fill: rgba(255,255,255,1);
 }
 .Icon_material-lock-outline {
-	
+	overflow: visible;
 	position: absolute;
 	width: 11.332px;
 	height: 14.874px;
