@@ -940,6 +940,10 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
+#body {
+	overflow-y: hidden; /* Hide vertical scrollbar */
+	overflow-x: hidden; /* Hide horizontal scrollbar */
+}
 #Discount {
 	position: absolute;
 	width: 338.087px;
